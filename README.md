@@ -1,1 +1,1 @@
-# viti_coursre
+# viti_course
